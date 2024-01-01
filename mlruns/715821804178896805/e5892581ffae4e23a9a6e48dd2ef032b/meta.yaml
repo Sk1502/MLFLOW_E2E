@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Machine%20Learning/MLOps/MLFLOW_E2E/mlruns/715821804178896805/e5892581ffae4e23a9a6e48dd2ef032b/artifacts
+end_time: 1698149599449
+entry_point_name: ''
+experiment_id: '715821804178896805'
+lifecycle_stage: active
+run_id: e5892581ffae4e23a9a6e48dd2ef032b
+run_name: salty-shark-894
+run_uuid: e5892581ffae4e23a9a6e48dd2ef032b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698149596706
+status: 3
+tags: []
+user_id: saikr

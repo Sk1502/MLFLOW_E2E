@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/476298807165130287/bac0348513c64b528296a9b6bec3c21c/artifacts
+end_time: 1698170749388
+entry_point_name: ''
+experiment_id: '476298807165130287'
+lifecycle_stage: active
+run_id: bac0348513c64b528296a9b6bec3c21c
+run_name: iris_classifier_method-1
+run_uuid: bac0348513c64b528296a9b6bec3c21c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698170747348
+status: 4
+tags: []
+user_id: saikr

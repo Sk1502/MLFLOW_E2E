@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Machine%20Learning/MLOps/MLFLOW_E2E/mlruns/138683446439459340/aed08e33c47944a1b00d0416e550f80f/artifacts
+end_time: 1698170096310
+entry_point_name: ''
+experiment_id: '138683446439459340'
+lifecycle_stage: active
+run_id: aed08e33c47944a1b00d0416e550f80f
+run_name: iris_classifier_24-10-23
+run_uuid: aed08e33c47944a1b00d0416e550f80f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698170094097
+status: 3
+tags: []
+user_id: saikr

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Machine%20Learning/MLOps/MLFLOW_E2E/mlruns/358398199057128677/06dca006f74a470f8fd771c75e70a79d/artifacts
+end_time: 1698150090374
+entry_point_name: ''
+experiment_id: '358398199057128677'
+lifecycle_stage: active
+run_id: 06dca006f74a470f8fd771c75e70a79d
+run_name: exultant-owl-573
+run_uuid: 06dca006f74a470f8fd771c75e70a79d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698150088689
+status: 3
+tags: []
+user_id: saikr
